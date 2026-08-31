@@ -203,7 +203,7 @@ tags:
     name: Cult Leader
     category: meta
     group: meta-cult
-    description: "You understand Bacchus's plan. Every 2 days, you can send a telepathic message to every cultist in Ravenheart to help organize."
+    description: "You understand Bacchus's plan. Every 2 days, you can send a telepathic message to every cultist in Ravenheart to help organize (DM the GM's)."
     pointCost: 0
     purchasable: false
 
@@ -1494,7 +1494,7 @@ tags:
   - slug: laborer-farming
     name: Laborer (Farming)
     category: skills
-    description: "When you farm, you make {resource:labor:skilled}. Only works in the Town."
+    description: "When you farm, you make {resource:labor:farming}. Only works in the Town."
     pointCost: 5
     requiredTag: laborer-skilled
     purchasable: true
